@@ -1,0 +1,396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deliquium: or, The grievances of the nation discovered in a dream·</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02915</idno>
+            <idno type="OCLC"> 11768856</idno>
+            <idno type="STC">Wing D908</idno>
+            <idno type="STC">Interim Tract Supplement Guide 839.m.22[14]</idno>
+            <idno type="STC">ESTC R20140</idno>
+            <idno type="EEBO-CITATION">99883260</idno>
+            <idno type="PROQUEST">ocm99883260</idno>
+            <idno type="VID">181740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181740)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:2[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deliquium: or, The grievances of the nation discovered in a dream·</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "From evenings coffee, lac'd with long argument ..."</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181740:1" rendition="simple:additions"/>
+            <head>THE DELIQUIUM: OR, The Grievances of the Nation DISCOVERED IN A DREAM.</head>
+            <lg>
+               <l>FRom Evenings Coffee, lac'd with long Argument</l>
+               <l>Of the Kings Power and Rights of Parliament,</l>
+               <l>And hot-brain'd Company, who make it their Vocation,</l>
+               <l>Waving their own, to mind th' Affairs o'th' Nation;</l>
+               <l>Whoſe Noddles for theſe many Months have been</l>
+               <l>Hatchers of Grievances unfelt, unſeen;</l>
+               <l>Ill-manner'd Fools, whoſe Ignorance is Hate,</l>
+               <l>They underſtand not, therefore blame the State.</l>
+               <l>Their real Grievance is their want of ſence,</l>
+               <l>Beaſts in all things but in Obedience.</l>
+               <l>Cloy'd with their noiſie Cant (in equal plight</l>
+               <l>Of laughter, ſcorn, and grief) I bid good night:</l>
+               <l>Troubl'd to think of <hi>England</hi>'s Grand Diſeaſe,</l>
+               <l>Groaning with th' Burthen of ſuch Sots as theſe,</l>
+               <l>To bed I went, where reſtleſs long I lay,</l>
+               <l>Deſpair'd of Sleep, and waited for the day:</l>
+               <l>Lord! (ſaid I) muſt our Monarch ne're have reſt?</l>
+               <l>The more indulgent, th' more he is oppreſt</l>
+               <l>With Fools that know not, think not what they want;</l>
+               <l>Their Deſire granted, they'l ſoon cure the Grant:</l>
+               <l>Yet the King's ſtill in fault! methinks I ſee</l>
+               <l>Tears flowing down the Cheeks of Majeſty.</l>
+               <l>If I am troubled, how much more is He,</l>
+               <l>Who bears the burthen of their Calumny?</l>
+               <l>Thus lay I long, my Soul quite ſpent with Sighs,</l>
+               <l>When Sleep inſenſibly ſtole o're my Eyes.</l>
+               <l>From lump of Fleſh unchain'd, methought my Soul</l>
+               <l>Through Dark Unwholſome Foggy Miſts did rowl,</l>
+               <l>Horrour increaſing ſtill, methought I came</l>
+               <l>To the dire Manſions of Eternal Flame,</l>
+               <l>The Gates of Braſs tranſparent were, and thence</l>
+               <l>Flew <hi>Azure</hi> Flames with Smoak of nauſeous ſtench,</l>
+               <l>With a confuſed noiſe of Howls and Groans,</l>
+               <l>Such as would melt (if any thing can) Stones.</l>
+               <l>The horrour quell'd my Spirit, that I ſtood</l>
+               <l>'Maz'd and inſenſitive as Stone or Wood,</l>
+               <l>Till by a Friend reviv'd; <hi>Chear thee,</hi> quoth he,</l>
+               <l>
+                  <hi>This place as yet is not deſign'd for thee.</hi>
+               </l>
+               <l>He led me through the Gates, where lo, a place,</l>
+               <l>Larger then all this lower Worlds vaſt ſpace,</l>
+               <l>The Torments gave ſome light (elſe dark as night)</l>
+               <l>A pale bituminous diſcolour'd Light,</l>
+               <l>Myriads of wretched Souls my Fancy view'd,</l>
+               <l>Weltring in Flames, with Pitch and Brimſtone ſtrew'd.</l>
+               <l>Juſt at the Gate th' Infernal <hi>Senate</hi> ſate;</l>
+               <l>For know, that Hell's no Kingdom, but a <hi>State;</hi>
+               </l>
+               <l>A Democratick State; for it affords</l>
+               <l>(As I was told) no King nor Houſe of Lords:</l>
+               <l>Tho' <hi>Lucifer</hi>'s a kind of Prince, he ſate</l>
+               <l>But <hi>Chairman,</hi> or rather <hi>Speaker</hi> to the <hi>State;</hi>
+               </l>
+               <l>A Troop of Ghaſtly Fiends ſurround his <hi>Chair,</hi>
+               </l>
+               <l>All which of <hi>a Select Committee</hi> were,</l>
+               <l>Who (having plaid <hi>their Devils part</hi> ſo well)</l>
+               <l>Had been Elected <hi>Burgeſſes of Hell:</hi>
+               </l>
+               <l>Two who were lately to <hi>Eutopia</hi> ſent,</l>
+               <l>Stood now for <hi>Members of the Parliament.</hi>
+               </l>
+               <l>
+                  <hi>O Yes</hi> was ſtrait proclaim'd; <hi>Appear, appear,</hi>
+               </l>
+               <l>
+                  <hi>You that are Candidates; mighty</hi> Lucifer</l>
+               <l>
+                  <hi>Aſſures his Vote for him who merits beſt</hi>
+               </l>
+               <l>
+                  <hi>For his</hi> Eutopia <hi>Service;</hi> All the reſt</l>
+               <l>To <hi>Lucifer</hi> with formal Bows ſubmit;</l>
+               <l>They would conſent to what <hi>His Grace</hi> thought fit.</l>
+               <l>
+                  <hi>Python</hi> appear'd; Great Sir, <hi>ſaid he,</hi> ſince I</l>
+               <l>Went with this <hi>Honourable Houſe</hi>'s Embaſſy,</l>
+               <l>T' <hi>Eutopia,</hi> I ha' brought that Realm to be</l>
+               <l>An't pleaſe Your Grace, in all Conformity</l>
+               <l>To Your deſires; But firſt I muſt confeſs</l>
+               <l>Letters of Credence from his <hi>Holineſs</hi>
+               </l>
+               <l>(Your Grace's Correſpondent) I procur'd</l>
+               <l>To ſome Lords there; whom I before inſur'd</l>
+               <l>By my <hi>Ignatian</hi> Friends; O! they're a Crew</l>
+               <l>Of the moſt hearty, diligent and true,</l>
+               <l>Zealous unwearied Boys, to propagate</l>
+               <l>What may conduce to th' Good of this Our State:</l>
+               <l>Had they but Cunning equal to their Will,</l>
+               <l>This Place with Humane Souls they'd quickly fill;</l>
+               <l>You'd need no other Fiends: <hi>Theſe</hi> did my work,</l>
+               <l>And privily about the Realm did lurk:</l>
+               <l>Some ign'rant Bigots they engag'd, and ſome</l>
+               <l>Only with th' pleaſing pride of <hi>Martyrdom;</hi>
+               </l>
+               <l>Some by Ambition's Bait were finely caught,</l>
+               <l>All things at once <hi>boldly to venture at:</hi>
+               </l>
+               <l>But I confeſs, though all my Art I try'd</l>
+               <l>To bring the Great <hi>Almanzor</hi> to Our ſide,</l>
+               <pb facs="tcp:181740:2" rendition="simple:additions"/>
+               <l> I fail'd; But then I got it buz'd that <hi>He</hi>
+               </l>
+               <l>
+                  <hi>Would ſoon make one in the Conspiracy:</hi>
+               </l>
+               <l>This tickl'd and engag'd them in that <hi>PLOT</hi>
+               </l>
+               <l>Which by th' <hi>Eutopians</hi> ne'r will be forgot</l>
+               <lg>
+                  <l>
+                     <hi>In ſhort,</hi> This Honourable Houſe knows well</l>
+                  <l>How I've <hi>deſerv'd a Burgeſs-ſhip in Hell;</hi>
+                  </l>
+                  <l>If not, we've ſome <hi>Jeſuits</hi> here can tell.</l>
+               </lg>
+               <l>Then through the Houſe a murmuring Applauſe</l>
+               <l>Shew'd that they all inclin'd to <hi>Python</hi>'s Cauſe.</l>
+               <l>When <hi>Syphax,</hi> th'other Candidate appear'd,</l>
+               <l>Great Sir, <hi>ſaid he,</hi> I hope my Cauſe (when heard)</l>
+               <l>Will gain your ſuffrage; Mighty Sir, You know</l>
+               <l>M'Opponent's method was a while ago</l>
+               <l>Us'd by <hi>Cantarogax,</hi> Your Agent then</l>
+               <l>To th' ſame Realms, though but in vain; ſince when</l>
+               <l>Others with like Effects have us'd it; I</l>
+               <l>Us'd the experienc'd Rule, <hi>Presbytery:</hi>
+               </l>
+               <l>This was the method, Mighty <hi>Lucifer!</hi>
+               </l>
+               <l>That brought Ten thouſand Rebel Souls a year</l>
+               <l>For twenty years together to this place,</l>
+               <l>For <hi>Python</hi>'s part, an't pleaſe Your Grace,</l>
+               <l>He hatch't a <hi>Plot</hi> I muſt confeſs; but what</l>
+               <l>Effects did this his <hi>ſo much talkt of Plot</hi>
+               </l>
+               <l>Produce? Why faith he e'en ſent here no more</l>
+               <l>Than thoſe who were Your Grace's own before.</l>
+               <l>For my own part, I to the Houſe will give</l>
+               <l>Of all my Actions a ſhort <hi>Narrative.</hi>
+               </l>
+               <l>In grave and comly Hypocritick Dreſs,</l>
+               <l>Bearing the outward form of Godlineſs,</l>
+               <l>I cloath'd my ſelf, and to <hi>Eutopia</hi> went,</l>
+               <l>Haunted the City, Court and Parliament;</l>
+               <l>And in ſhort time pick'd up a numerous Crew</l>
+               <l>Of all Religions; every Sect a few:</l>
+               <l>I made all thoſe my own who took great pains</l>
+               <l>To make their ſeeming Godlineſs their gains:</l>
+               <l>All thoſe who uſe Religion for a faſhion,</l>
+               <l>Or ſeen to thrive by th' <hi>ruine of the Nation;</hi>
+               </l>
+               <l>All who'd at Court their expectations croſt,</l>
+               <l>Or by ill manners had Preferments left:</l>
+               <l>All thoſe who were engag'd in the <hi>late Broils,</hi>
+               </l>
+               <l>In <hi>the King</hi>'s <hi>Death</hi> and <hi>the three Nations Spoils,</hi>
+               </l>
+               <l>And had this King's late <hi>Act of Grace</hi> abus'd</l>
+               <l>By their unnatural Ingratitude:</l>
+               <l>All who had loſt their Games, and now would fain,</l>
+               <l>For their own turn, have the <hi>Cards dealt again.</hi>
+               </l>
+               <l>I found one fit at laſt to ſteer theſe right,</l>
+               <l>A Favourite of theirs, a much fam'd Wight,</l>
+               <l>
+                  <hi>Capricio</hi> call'd, and thereby hangs a Tale,</l>
+               <l>Meager his Viſage is, his Face as pale</l>
+               <l>As his Deeds black; Dame Nature ſure deſign'd</l>
+               <l>That by his out-ſide men might know his mind:</l>
+               <l>Hell<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in his Body, and his ſhrivl'd Skin</l>
+               <l>Seems dropping from his rotten Bones within:</l>
+               <l>His Corrupt Tortur'd Body does convey</l>
+               <l>Freſh Spleen and Rancour to his Heart each day,</l>
+               <l>Which leſt it ſhou'd o'reflow, or by miſhap</l>
+               <l>Be over-charg'd from <hi>Sun</hi> or <hi>Fleece,</hi> a Tap</l>
+               <l>Is in his Body fix'd, with curious Art,</l>
+               <l>Which from his double Envy-canker'd heart,</l>
+               <l>By pumping, does exhauſt th' exundant Juice,</l>
+               <l>Reſerving ſtill enough for's daily uſe.</l>
+               <l>With this half Fiend I many Conſults had,</l>
+               <l>And we at laſt this Reſolution made:</l>
+               <l>
+                  <hi>Almanzor</hi>'s due Succeſſion to oppoſe,</l>
+               <l>Among his many unprovoked Foes:</l>
+               <l>We choſe young <hi>Marcion,</hi> not for any love,</l>
+               <l>But to undo the Youth, as time will prove:</l>
+               <l>Poor eaſie Prince he little thinks that we</l>
+               <l>Proſtituteth is his weak Credulity</l>
+               <l>To our own uſe, to Anarchize the State,</l>
+               <l>And haſten his too ſoon intended Fate:</l>
+               <l>Diſguſted Lords we got ſome two or three,</l>
+               <l>To put their helping hands to Anarchy.</l>
+               <l>Amongſt the reſt one <hi>Libertino</hi> nam'd:</l>
+               <l>Of him I muſt confeſs I was aſham'd,</l>
+               <l>His vitious Life did much diſgrace the Cauſe;</l>
+               <l>But, 'twas enough, his hate to King, Church, Laws,</l>
+               <l>And Government in general, drew the rude</l>
+               <l>Unthinking, Jealous, Headlong Multitude</l>
+               <l>To eſteem him ſo that he this Title bears,</l>
+               <l>
+                  <hi>One of the Protestant</hi> Eutopian <hi>Peers.</hi>
+               </l>
+               <l>With theſe in cloſe Cabals ſometime I paſs'd,</l>
+               <l>And forg'd a feaſible Deſign at laſt:</l>
+               <l>'Twas thought without ſome provocation 'twere</l>
+               <l>Not fit our Cauſe in publick ſhould appear:</l>
+               <l>I pitch'd upon a Rogue, the truth to tell,</l>
+               <l>Has not his Fellow even here in Hell,</l>
+               <l>Upon our Crew we forg'd a Plot, which he</l>
+               <l>Firſt brought to light; A Re-diſcovery</l>
+               <l>He made as ſoon, Swore to, and was believ'd,</l>
+               <l>Then our good Party ſound themſelves aggriev'd,</l>
+               <l>And cry'd aloud, THESE TORY'S, <hi>Bretheren, ſee;</hi>
+               </l>
+               <l>
+                  <hi>Behold, we ſay, the Lords Delivery.</hi>
+               </l>
+               <l>This was ſome Biſhop ſure, or Maſquerader.</l>
+               <l>Soon after this a Son accus'd his Father;</l>
+               <l>Forwards and backwards Swears, at laſt he Vows, Sir,</l>
+               <l>He was ſubborn'd by that ſame Papiſt <hi>Towzer.</hi>
+               </l>
+               <l>Things went on well, and now they thought 'twas time</l>
+               <l>The Ladder of Rebellion they ſhould climbe:</l>
+               <l>The Senate ſate; High for the <hi>Good Old Cauſe,</hi>
+               </l>
+               <l>
+                  <hi>Magna Charta,</hi> and Fundamental Laws,</l>
+               <l>No Arbitrary Power, but We muſt give</l>
+               <l>Neceſſary Limits to Prerogative,</l>
+               <l>Though the King mayn't, yet We may break the Laws,</l>
+               <l>Puniſh at pleaſure, though without a Cauſe;</l>
+               <l>Then muſt <hi>Almanzor</hi> be excluded, He</l>
+               <l>Has too much Spirit, too much bravery;</l>
+               <l>They muſt and will have preſently Redreſs,</l>
+               <l>Of a long Bead-roll of Grievances.</l>
+               <l>And theſe are ſuch as the K. won't, nor can't,</l>
+               <l>Nature and Conſcience will not let him grant:</l>
+               <l>If not, no Money, Sirs, what e're come on't;</l>
+               <l>A Fig for Foreign Foes, ſo the K<g ref="char:punc">▪</g> want.</l>
+               <l>Councellors muſt be tax'd, and moſt of all</l>
+               <l>
+                  <hi>Hali,</hi> whom they had nought to charge with all,</l>
+               <l>But only 'cauſe he could diſcern the Weather,</l>
+               <l>And judge when Elements would claſh together;</l>
+               <l>They do not think it ſafe that any Lord</l>
+               <l>That has but ſence, ſhould ſit at Council-Board;</l>
+               <l>Thoſe that ſit there ſhould in their Foreheads have</l>
+               <l>Their Beaſt-ſhips Mark of either Fool or Knave;</l>
+               <lg>
+                  <l>Who lov'd the K. was Voted ſtraight to be</l>
+                  <l>Betrayer of the Subjects Liberty;</l>
+                  <l>And their old long-lov'd Darling Property.</l>
+               </lg>
+               <l>
+                  <hi>Capricio</hi> tells them next, <hi>they want a Prince</hi>
+               </l>
+               <l>
+                  <hi>Fit to be truſted with the Rule; and ſince</hi>
+               </l>
+               <l>
+                  <hi>The preſent King's not ſuch, they think 'twere fit</hi>
+               </l>
+               <l>
+                  <hi>That they be truſted both with Him and It.</hi>
+               </l>
+               <l>In ſhort, I've brought that Kingdom, now of late,</l>
+               <l>In all Conformity ſo near our State,</l>
+               <l>That whoſoever ſees both, will ſurely Swear</l>
+               <l>'Tis an exact true Pattern of This here.</l>
+               <l>Then ſuch loud ſhouts from all the Senate came,</l>
+               <l>That I awak'd, and found it but a Dream.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
